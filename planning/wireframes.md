@@ -4,18 +4,21 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+- Login (no password) ⭐
+- View All Resources ⭐
+- View Resource ⭐
+- Favorites
+- Search Resources
 
-## Wireframe 1: [page title]
+## Wireframe 1: Login
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+![Login](wireframes/login.png)
 
-## Wireframe 2: [page title]
+## Wireframe 2: View All Resources
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+![View All Resources](wireframes/viewallresources.png)
 
-## Wireframe 3: [page title]
+## Wireframe 3: View Resource
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+![View Resource](wireframes/viewresource.png)
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
