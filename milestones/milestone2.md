@@ -6,24 +6,24 @@ This document should be completed and submitted during **Unit 6** of this course
 
 This unit, be sure to complete all tasks listed below. To complete a task, place an `x` between the brackets.
 
-- [ ] In `planning/wireframes.md`: add wireframes for at least three pages in your web app.
-  - [ ] Include a list of pages in your app
-- [ ] In `planning/entity_relationship_diagram.md`: add the entity relationship diagram you developed for your database.
-  - [ ] Your entity relationship diagram should include the tables in your database.
-- [ ] Prepare your three-minute pitch presentation, to be presented during Unit 7 (the next unit).
-  - [ ] You do **not** need to submit any materials in advance of your pitch.
-- [ ] In this document, complete all three questions in the **Reflection** section below
+- [X] In `planning/wireframes.md`: add wireframes for at least three pages in your web app.
+  - [X] Include a list of pages in your app
+- [X] In `planning/entity_relationship_diagram.md`: add the entity relationship diagram you developed for your database.
+  - [X] Your entity relationship diagram should include the tables in your database.
+- [X] Prepare your three-minute pitch presentation, to be presented during Unit 7 (the next unit).
+  - [X] You do **not** need to submit any materials in advance of your pitch.
+- [X] In this document, complete all three questions in the **Reflection** section below
 
 ## Reflection
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We were able to figure out the setup of our site and the database relationships were more fleshed out.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We struggled with coming up with a many-to-many relationship, but as we further understood what that type of relationship entailed, we were able to come up with some ideas.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+SQL syntax lessons or cheatsheets relating to more complex database relationships, since most of the labs deal with just a single table or two.
