@@ -1,8 +1,8 @@
-# [your app name here]
+# Community Resource Finder (CRF)
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Emeka Ogbuachi, Tasneem Shabana
 
 🔗 Link to deployed app:
 
@@ -10,35 +10,53 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+Community Resource Finder is a web application that helps people easily find important local services like food banks, homeless helter,s free/lost-cost clinics, mental health support, job training centers, community events, after-school programs, immigration/legal aid, and more. 
 
 ### Inspiration
 
-[text goes here]
+Accessing critical resources can be challenging, especially for those facing financial hardship and other unique circumstances. Information is often scattered across multiple websites or difficult to navigate. A centralized finder with a user-friendly interface would theoretically simplify the process of discovering and accessing these local services.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React + Typescript
 
-Backend:
+Backend: Node.js + Express + PostgreSQL
 
 ## Features
 
-### [Name of Feature 1]
+### Lists all local resources
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+One page that lists all the local resources in the area, paginated and displayed via cards.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Resource details page
 
-[short description goes here]
+A resource card from the list of all resources links to a details page where you can get more information about accessing the specified resource.
+
+[gif goes here]
+
+### Favoriting a resource
+
+Favoriting via main page or details page will result in the specified resource persisting in the favorities section across visits.
+
+[gif goes here]
+
+### Change location
+
+Can change the location using city/town name or zip to find relevant resources. (ex. using public wifi/computer to find resources but live somewhere else)
+
+[gif goes here]
+
+### Filter through resources
+
+Can filter through resources based on type and/or distance. 
+
+[gif goes here]
+
+### Search for specific resource(s)
+
+Search bar that returns relevant resources based on the user query.
 
 [gif goes here]
 
