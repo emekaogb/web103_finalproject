@@ -52,8 +52,7 @@ Can change the location using city/town name or zip to find relevant resources. 
 
 Can filter through resources based on type and/or distance. 
 
-<img src='https://i.imgur.com/M6qJhXF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![Video Walkthrough](https://i.imgur.com/M6qJhXF.gif)
 ### Search for specific resource(s)
 
 Search bar that returns relevant resources based on the user query.
