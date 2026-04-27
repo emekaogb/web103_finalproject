@@ -24,11 +24,11 @@ Backend: Node.js + Express + PostgreSQL
 
 ## Features
 
-### Lists all local resources
+### ✅ Lists all local resources
 
 One page that lists all the local resources in the area, paginated and displayed via cards.
 
-[gif goes here]
+<img src='https://imgur.com/a/lEt3DQ7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Resource details page
 
@@ -36,11 +36,11 @@ A resource card from the list of all resources links to a details page where you
 
 [gif goes here]
 
-### Favoriting a resource
+### ✅ Favoriting a resource
 
 Favoriting via main page or details page will result in the specified resource persisting in the favorities section across visits.
 
-[gif goes here]
+<img src='https://imgur.com/a/4OvLpBm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Change location
 
@@ -48,11 +48,11 @@ Can change the location using city/town name or zip to find relevant resources. 
 
 [gif goes here]
 
-### Filter through resources
+### ✅ Filter through resources
 
 Can filter through resources based on type and/or distance. 
 
-[gif goes here]
+<img src='https://imgur.com/a/0EcyaYW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Search for specific resource(s)
 
