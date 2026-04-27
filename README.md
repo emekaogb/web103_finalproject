@@ -28,7 +28,7 @@ Backend: Node.js + Express + PostgreSQL
 
 One page that lists all the local resources in the area, paginated and displayed via cards.
 
-<img src='https://imgur.com/a/lEt3DQ7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/lEt3DQ7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Resource details page
 
@@ -40,7 +40,7 @@ A resource card from the list of all resources links to a details page where you
 
 Favoriting via main page or details page will result in the specified resource persisting in the favorities section across visits.
 
-<img src='https://imgur.com/a/4OvLpBm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/4OvLpBm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Change location
 
@@ -52,7 +52,7 @@ Can change the location using city/town name or zip to find relevant resources. 
 
 Can filter through resources based on type and/or distance. 
 
-<img src='https://imgur.com/a/0EcyaYW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/0EcyaYW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Search for specific resource(s)
 
