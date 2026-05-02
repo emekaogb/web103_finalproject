@@ -32,7 +32,7 @@ External APIs: Google Maps Embed, Google Places
 
 One page that lists all the local resources in the area, paginated and displayed via cards.
 
-![Video Walkthrough](https://imgur.com/fPIsEvl)
+![Video Walkthrough](https://i.imgur.com/fPIsEvl.mp4)
 
 ### ✅ Resource details page
 
