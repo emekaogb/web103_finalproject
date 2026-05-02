@@ -13,8 +13,8 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
   - [X] Under each feature you have completed, **include a GIF** showing feature functionality
 - [X] In this document, complete the **Reflection** section below
 - [X] 🚩🚩🚩**Complete the Final Project Feature Checklist section below**, detailing each feature you completed in the project (ONLY include features you implemented, not features you planned)
-- [ ] 🚩🚩🚩**Record a GIF showing a complete run-through of your app** that displays all the components included in the **Final Project Feature Checklist** below
-  - [ ] Include this GIF in the **Final Demo GIF** section below
+- [X] 🚩🚩🚩**Record a GIF showing a complete run-through of your app** that displays all the components included in the **Final Project Feature Checklist** below
+  - [X] Include this GIF in the **Final Demo GIF** section below
 
 ## Final Project Feature Checklist
 
@@ -58,8 +58,8 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 - [X] The project includes a custom non-RESTful route with corresponding controller actions
 - [X] The user can filter or sort items based on particular criteria as appropriate for your use case
 - [X] Data is automatically generated in response to a certain event or user action. Examples include generating a default inventory for a new user starting a game or creating a starter set of tasks for a user creating a new task app account
-- [ ] Data submitted via a POST or PATCH request is validated before the database is updated (e.g. validating that an event is in the future before allowing a new event to be created)
-  - [ ] *To receive full credit, please be sure to demonstrate in your walkthrough that for certain inputs, the item will NOT be successfully created or updated.*
+- [X] Data submitted via a POST or PATCH request is validated before the database is updated (e.g. validating that an event is in the future before allowing a new event to be created)
+  - [X] *To receive full credit, please be sure to demonstrate in your walkthrough that for certain inputs, the item will NOT be successfully created or updated.*
 
 ### Stretch Features
 
@@ -69,7 +69,7 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
   - [ ] Users can log in and log out via GitHub OAuth with Passport.js
 - [ ] Restrict available user options dynamically, such as restricting available purchases based on a user's currency
 - [ ] Show a spinner while a page or page element is loading
-- [ ] Disable buttons and inputs during the form submission process
+- [X] Disable buttons and inputs during the form submission process
 - [ ] Disable buttons after they have been clicked
   - *At least 75% of buttons in your app must exhibit this behavior to receive full credit*
 - [ ] Users can upload images to the app and have them be stored on a cloud service
@@ -80,26 +80,26 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ## Final Demo GIF
 
-🔗 [Here's a GIF walkthrough of the final project](👉🏾👉🏾👉🏾 your link here)
+🔗 [![Walkthrough](https://img.youtube.com/vi/mPVtU6jFfkg/sddefault.jpg)](https://youtu.be/mPVtU6jFfkg)
 
 ## Reflection
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We finished up our features and got to practice demoing our app for an audience. 
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We were having issues with implementing some stretch features in time. Ultimately, we decided to save those unfinished features for our future directions section of our demo.
 
 ### 3. What were some of the highlights or achievements that you are most proud of in this project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We're proud of implementing a fully interdependent backend and frontend service, and integrating various external APIs while arcitecting our own. 
 
 ### 4. Reflecting on your web development journey so far, how have you grown since the beginning of the course?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We have learned a lot about PostgreSQL and database relationships over our time in this course, as well as middleware and authentication through this project. 
 
 ### 5. Looking ahead, what are your goals related to web development, and what steps do you plan to take to achieve them?
 
-[👉🏾👉🏾👉🏾 your answer here]
+In the future, we'd like to continue working on more projects as exploratory and learning exercises, to conitnue growing our web development skills. 
