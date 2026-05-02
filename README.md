@@ -66,19 +66,15 @@ Delete an existing review authored by the user (verify using authentication), an
 
 Can change the location using city/town name or zip to find relevant resources. (ex. using public wifi/computer to find resources but live somewhere else)
 
-[gif goes here]
-
 ### ✅ Filter through resources
 
-Can filter through resources based on type and/or distance. 
-
-![Video Walkthrough](https://i.imgur.com/M6qJhXF.gif)
+Can filter through resources based on type. 
 
 ### ✅Search for specific resource(s)
 
 Search bar that returns relevant resources based on the user query.
 
-[gif goes here]
+[Additional Features Walkthrough](https://i.imgur.com/FZAd2qy.mp4)
 
 ## Installation Instructions
 
