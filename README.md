@@ -32,7 +32,7 @@ External APIs: Google Maps Embed, Google Places
 
 One page that lists all the local resources in the area, paginated and displayed via cards.
 
-<img src='https://i.imgur.com/EQPHkoe.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+![Video Walkthrough](https://imgur.com/fPIsEvl)
 
 ### ✅ Resource details page
 
