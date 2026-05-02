@@ -32,7 +32,7 @@ External APIs: Google Maps Embed, Google Places
 
 One page that lists all the local resources in the area, paginated and displayed via cards.
 
-![Video Walkthrough](https://i.imgur.com/BFXC6jv.gif)
+![Video Walkthrough](gifs/viewresources.gif)
 
 ### ✅ Resource details page
 
@@ -44,7 +44,7 @@ A resource card from the list of all resources links to a details page where you
 
 Favoriting via main page or details page will result in the specified resource persisting in the favorities section across visits.
 
-<img src='https://i.imgur.com/FVCjWzp.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+![Video Walkthrough](gifs/favoriteresource.gif)
 
 ### ✅ Creating and reading a review
 
