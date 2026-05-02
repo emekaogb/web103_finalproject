@@ -32,7 +32,7 @@ External APIs: Google Maps Embed, Google Places
 
 One page that lists all the local resources in the area, paginated and displayed via cards.
 
-<img src='https://i.imgur.com/EQPHkoe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/EQPHkoe.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 ### ✅ Resource details page
 
@@ -44,7 +44,7 @@ A resource card from the list of all resources links to a details page where you
 
 Favoriting via main page or details page will result in the specified resource persisting in the favorities section across visits.
 
-<img src='https://i.imgur.com/FVCjWzp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/FVCjWzp.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 ### ✅ Creating and reading a review
 
@@ -64,7 +64,7 @@ Delete an existing review authored by the user (verify using authentication), an
 
 [gif goes here]
 
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+## Additional Features
 
 ### ✅ Change location
 
@@ -78,7 +78,7 @@ Can filter through resources based on type and/or distance.
 
 ![Video Walkthrough](https://i.imgur.com/M6qJhXF.gif)
 
-### Search for specific resource(s)
+### ✅ Search for specific resource(s)
 
 Search bar that returns relevant resources based on the user query.
 
