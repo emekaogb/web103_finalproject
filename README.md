@@ -38,7 +38,7 @@ One page that lists all the local resources in the area, paginated and displayed
 
 A resource card from the list of all resources links to a details page where you can get more information about accessing the specified resource.
 
-[gif goes here]
+![Video Walkthrough](gifs/resourcedetails.gif)
 
 ### ✅ Favoriting a resource
 
@@ -50,19 +50,15 @@ Favoriting via main page or details page will result in the specified resource p
 
 Review a specific resource and have it show up on the resource details page.
 
-[gif goes here]
-
 ### ✅ Edit a review
 
 Edit an existing review authored by the user (verify using authentication), and have it update in the database.
-
-[gif goes here]
 
 ### ✅ Delete a review
 
 Delete an existing review authored by the user (verify using authentication), and have it update in the database.
 
-[gif goes here]
+[Review Walkthrough](https://i.imgur.com/1Sq7gE3.mp4)
 
 ## Additional Features
 
